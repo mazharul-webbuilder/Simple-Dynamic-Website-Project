@@ -1,0 +1,13 @@
+.cImage{
+    height: 500px;
+}
+.my-caption
+{
+    color: white;
+    text-align: center;
+    bottom: 130px;
+    background-color: rgba(0,0,0,0.2);
+}
+.my-caption p{
+    padding: 10px 100px;
+}
